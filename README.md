@@ -1,3 +1,5 @@
+> **This app has moved.** Browns Roster is now [NFL Rosters](https://nfl-rosters-opal.vercel.app/#cle) ([repo](https://github.com/derekpcollins/nfl-rosters)), which covers every NFL team. This page now redirects there. The original code is kept below and in the history.
+
 # Cleveland Browns Roster
 
 A mobile web app that displays the current Cleveland Browns roster ordered by jersey number.
